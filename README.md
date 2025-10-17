@@ -1,2 +1,2 @@
-# -C2
-M4ke Sliver m0re sn3aky..
+# Фантомный Сливер (PhantomizeSliver)
+> Сделать Sliver C2 еще более незаметным.
