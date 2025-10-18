@@ -8,6 +8,8 @@
  제공했을 때의 악용 가능성이 보이는 부분은 삭제하였으나, 이를 이용한 해킹 공격으로 생기는 법적인 책임은 모두 자신에게 있으며, 프로젝트 관리자는 이에 어떠한 책임도 지지 않음을 사전에 명시함.**
 
 ---
+## Usage
+> [PhantomizeSliver.ipynb](https://github.com/AswXrd/-C2/blob/main/PhantomizeSliver.ipynb) 링크 복사 후 Colab Note를 Import 하여 사용
 *   셀 순서대로 하나씩 진행
 *   강조하는 셀의 ChangeMe 수정 필요
-*   출력된 코드는 드래그 후 편집기에서 저장하여 사용
+*   최종적으로 출력된 코드는 드래그 후 편집기에서 저장하여 사용
